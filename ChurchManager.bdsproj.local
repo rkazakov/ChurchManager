@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.07.08 23:46:25.234.cpp,C:\Documents and Settings\Ru55\Мои документы\Borland Studio Projects\Unit1.cpp=C:\ChurchManager\BIN\MainFrm.cpp</Transaction>
+    <Transaction>2007.07.08 23:46:25.234.h,C:\Documents and Settings\Ru55\Мои документы\Borland Studio Projects\Unit1.h=C:\ChurchManager\BIN\MainFrm.h</Transaction>
+    <Transaction>2007.07.08 23:46:25.234.dfm,C:\Documents and Settings\Ru55\Мои документы\Borland Studio Projects\Unit1.dfm=C:\ChurchManager\BIN\MainFrm.dfm</Transaction>
+    <Transaction>2007.07.08 23:46:36.343.bdsproj,C:\Documents and Settings\Ru55\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\ChurchManager\BIN\ChurchManager.bdsproj</Transaction>
+    <Transaction>2007.07.09 15:16:35.625.cpp,c:\ChurchManager\BIN\Unit1.cpp=C:\ChurchManager\BIN\CMDataModule.cpp</Transaction>
+    <Transaction>2007.07.09 15:16:35.625.h,c:\ChurchManager\BIN\Unit1.h=C:\ChurchManager\BIN\CMDataModule.h</Transaction>
+    <Transaction>2007.07.09 15:16:35.625.dfm,c:\ChurchManager\BIN\Unit1.dfm=C:\ChurchManager\BIN\CMDataModule.dfm</Transaction>
+    <Transaction>2007.07.10 00:18:37.015.cpp,C:\ChurchManager\BIN\Unit1.cpp=C:\ChurchManager\BIN\AddMemFrm.cpp</Transaction>
+    <Transaction>2007.07.10 00:18:37.015.h,C:\ChurchManager\BIN\Unit1.h=C:\ChurchManager\BIN\AddMemFrm.h</Transaction>
+    <Transaction>2007.07.10 00:18:37.015.dfm,C:\ChurchManager\BIN\Unit1.dfm=C:\ChurchManager\BIN\AddMemFrm.dfm</Transaction>
+    <Transaction>2007.07.11 16:04:48.375.cpp,C:\ChurchManager\BIN\Unit1.cpp=C:\ChurchManager\BIN\AboutFrm.cpp</Transaction>
+    <Transaction>2007.07.11 16:04:48.375.h,C:\ChurchManager\BIN\Unit1.h=C:\ChurchManager\BIN\AboutFrm.h</Transaction>
+    <Transaction>2007.07.11 16:04:48.375.dfm,C:\ChurchManager\BIN\Unit1.dfm=C:\ChurchManager\BIN\AboutFrm.dfm</Transaction>
+    <Transaction>2008.02.01 01:14:04.421.bdsproj,E:\Office\ChurchManager\ChurchManager.bdsproj=E:\Office\ChurchManager3\ChurchManager3.bdsproj</Transaction>
+    <Transaction>2008.02.01 01:14:26.546.cpp,E:\Office\ChurchManager\AboutFrm.cpp=E:\Office\ChurchManager3\AboutFrm.cpp</Transaction>
+    <Transaction>2008.02.01 01:14:26.546.h,E:\Office\ChurchManager\AboutFrm.h=E:\Office\ChurchManager3\AboutFrm.h</Transaction>
+    <Transaction>2008.02.01 01:14:26.546.dfm,E:\Office\ChurchManager\AboutFrm.dfm=E:\Office\ChurchManager3\AboutFrm.dfm</Transaction>
+    <Transaction>2008.02.01 01:14:32.953.cpp,E:\Office\ChurchManager\AddMemFrm.cpp=E:\Office\ChurchManager3\AddMemFrm.cpp</Transaction>
+    <Transaction>2008.02.01 01:14:32.953.h,E:\Office\ChurchManager\AddMemFrm.h=E:\Office\ChurchManager3\AddMemFrm.h</Transaction>
+    <Transaction>2008.02.01 01:14:32.953.dfm,E:\Office\ChurchManager\AddMemFrm.dfm=E:\Office\ChurchManager3\AddMemFrm.dfm</Transaction>
+    <Transaction>2008.02.01 01:14:39.187.cpp,E:\Office\ChurchManager\CMDataModule.cpp=E:\Office\ChurchManager3\CMDataModule.cpp</Transaction>
+    <Transaction>2008.02.01 01:14:39.187.h,E:\Office\ChurchManager\CMDataModule.h=E:\Office\ChurchManager3\CMDataModule.h</Transaction>
+    <Transaction>2008.02.01 01:14:39.187.dfm,E:\Office\ChurchManager\CMDataModule.dfm=E:\Office\ChurchManager3\CMDataModule.dfm</Transaction>
+    <Transaction>2008.02.01 01:14:47.000.cpp,E:\Office\ChurchManager\MainFrm.cpp=E:\Office\ChurchManager3\MainFrm.cpp</Transaction>
+    <Transaction>2008.02.01 01:14:47.000.h,E:\Office\ChurchManager\MainFrm.h=E:\Office\ChurchManager3\MainFrm.h</Transaction>
+    <Transaction>2008.02.01 01:14:47.000.dfm,E:\Office\ChurchManager\MainFrm.dfm=E:\Office\ChurchManager3\MainFrm.dfm</Transaction>
+    <Transaction>2008.02.01 01:14:52.437.pas,E:\Office\ChurchManager\DataFile.pas=E:\Office\ChurchManager3\DataFile.pas</Transaction>
+    <Transaction>2010/01/08 15:02:31.164.bdsproj,E:\Bel128\ChurchManager3\ChurchManager3.bdsproj=E:\Bel128\ChurchManager\ChurchManager.bdsproj</Transaction>
+    <Transaction>2010/01/08 15:02:50.321.cpp,E:\Bel128\ChurchManager3\AboutFrm.cpp=E:\Bel128\ChurchManager\AboutFrm.cpp</Transaction>
+    <Transaction>2010/01/08 15:02:50.321.h,E:\Bel128\ChurchManager3\AboutFrm.h=E:\Bel128\ChurchManager\AboutFrm.h</Transaction>
+    <Transaction>2010/01/08 15:02:50.321.dfm,E:\Bel128\ChurchManager3\AboutFrm.dfm=E:\Bel128\ChurchManager\AboutFrm.dfm</Transaction>
+    <Transaction>2010/01/08 15:03:03.690.cpp,E:\Bel128\ChurchManager3\AddMemFrm.cpp=E:\Bel128\ChurchManager\AddMemFrm.cpp</Transaction>
+    <Transaction>2010/01/08 15:03:03.690.h,E:\Bel128\ChurchManager3\AddMemFrm.h=E:\Bel128\ChurchManager\AddMemFrm.h</Transaction>
+    <Transaction>2010/01/08 15:03:03.690.dfm,E:\Bel128\ChurchManager3\AddMemFrm.dfm=E:\Bel128\ChurchManager\AddMemFrm.dfm</Transaction>
+    <Transaction>2010/01/08 15:03:11.332.cpp,E:\Bel128\ChurchManager3\CMDataModule.cpp=E:\Bel128\ChurchManager\CMDataModule.cpp</Transaction>
+    <Transaction>2010/01/08 15:03:11.332.h,E:\Bel128\ChurchManager3\CMDataModule.h=E:\Bel128\ChurchManager\CMDataModule.h</Transaction>
+    <Transaction>2010/01/08 15:03:11.332.dfm,E:\Bel128\ChurchManager3\CMDataModule.dfm=E:\Bel128\ChurchManager\CMDataModule.dfm</Transaction>
+    <Transaction>2010/01/08 15:03:19.462.cpp,E:\Bel128\ChurchManager3\MainFrm.cpp=E:\Bel128\ChurchManager\MainFrm.cpp</Transaction>
+    <Transaction>2010/01/08 15:03:19.462.h,E:\Bel128\ChurchManager3\MainFrm.h=E:\Bel128\ChurchManager\MainFrm.h</Transaction>
+    <Transaction>2010/01/08 15:03:19.462.dfm,E:\Bel128\ChurchManager3\MainFrm.dfm=E:\Bel128\ChurchManager\MainFrm.dfm</Transaction>
+    <Transaction>2010/01/08 15:03:28.007.pas,E:\Bel128\ChurchManager3\DataFile.pas=E:\Bel128\ChurchManager\DataFile.pas</Transaction>
+    <Transaction>2010/01/08 15:40:44.771.cpp,E:\Bel128\ChurchManager\Unit1.cpp=E:\Bel128\ChurchManager\ViewMemPhotoFrm.cpp</Transaction>
+    <Transaction>2010/01/08 15:40:44.771.h,E:\Bel128\ChurchManager\Unit1.h=E:\Bel128\ChurchManager\ViewMemPhotoFrm.h</Transaction>
+    <Transaction>2010/01/08 15:40:44.771.dfm,E:\Bel128\ChurchManager\Unit1.dfm=E:\Bel128\ChurchManager\ViewMemPhotoFrm.dfm</Transaction>
+    <Transaction>2010/01/11 14:08:46.858.cpp,E:\Bel128\ChurchManager\ViewMemPhotoFrm.cpp=</Transaction>
+    <Transaction>2010/01/11 14:08:46.863.dfm,E:\Bel128\ChurchManager\ViewMemPhotoFrm.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
