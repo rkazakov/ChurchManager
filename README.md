@@ -6,3 +6,7 @@ ChurchManager is a church members database software. The software was developed 
 ----------
 
 ![ChurchManager v4.0.2.7 Main Window](https://github.com/rkazakov/ChurchManager/blob/master/Snapshots/MainWindow.png)
+
+----------
+
+Copyright (c) 2007-2016 Ruslan Kazakov
