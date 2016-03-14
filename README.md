@@ -8,10 +8,23 @@ ChurchManager is a church members database software. The software was developed 
 ![ChurchManager v4.0.2.7 Main Window](https://github.com/rkazakov/ChurchManager/blob/master/Snapshots/MainWindow.png)
 
 ----------
-# Requirements
+# Use
 
-- FastReport
-- TMS Library
+Just down load RELEASE folder and use it on any Microsoft Windows.
+
+----------
+# Development
+
+ChurchManager was written in C++ and Pascal programming languages using Borland Developer Studio 2006 (now Embarcadero® RAD Studio™).
+
+## IDE
+
+- [RAD Studio](https://www.embarcadero.com/products/rad-studio)
+
+## Dependencies
+
+- [FastReport VCL 5](https://www.fast-report.com/en/product/fast-report-vcl-5)
+- [TMS Component Pack](https://www.tmssoftware.com/site/tmspack.asp)
 
 ----------
 
