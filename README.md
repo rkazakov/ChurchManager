@@ -19,7 +19,7 @@ ChurchManager was written in C++ and Pascal programming languages using Borland 
 
 ## IDE
 
-- [RAD Studio](https://www.embarcadero.com/products/rad-studio)
+- [Embarcadero® RAD Studio™](https://www.embarcadero.com/products/rad-studio)
 
 ## Dependencies
 
