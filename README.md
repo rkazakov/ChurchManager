@@ -29,4 +29,4 @@ ChurchManager was written in C++ and Pascal programming languages using Borland 
 
 ----------
 
-Copyright (c) 2007-2016 Ruslan Kazakov
+Copyright (c) 2007-2017 Ruslan Kazakov
