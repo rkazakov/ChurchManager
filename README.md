@@ -10,7 +10,7 @@ ChurchManager is a church members database software. The software was developed 
 ----------
 # Use
 
-Just down load RELEASE folder and use it on any Microsoft Windows.
+Just download RELEASE folder and use it on Microsoft Windows XP and above.
 
 ----------
 # Development
